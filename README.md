@@ -53,8 +53,7 @@ Try the system online via Wokwi Simulator:
  
 Politehnica University of Timișoara  
 Faculty of Automation and Computer Science  
-Electronic devices and measurements
-
+Electronic devices and measurements 
 Academic Year 2022-2023
 
 ## Contributing
