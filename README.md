@@ -49,7 +49,7 @@ Try the system online via Wokwi Simulator:
 
 ## Authors
 - Cotoc Daniel
-- DObra Mihai
+- Dobra Mihai
  
 Politehnica University of Timișoara  
 Faculty of Automation and Computer Science  
