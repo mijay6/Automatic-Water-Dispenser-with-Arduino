@@ -50,7 +50,7 @@ Try the system online via Wokwi Simulator:
 
 ## Authors
 - @danyel513
-- @mijay6
+- @Mihai Dobra
   
 Politehnica University of Timișoara  
 Faculty of Automation and Computer Science  
