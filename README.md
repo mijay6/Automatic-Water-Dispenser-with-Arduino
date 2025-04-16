@@ -49,9 +49,9 @@ Try the system online via Wokwi Simulator:
 - Water quality monitoring
 
 ## Authors
-- Cotoc Daniel
-- Dobra Mihai
- 
+- @danyel513
+- @mijay6
+  
 Politehnica University of Timișoara  
 Faculty of Automation and Computer Science  
 Electronic devices and measurements   
