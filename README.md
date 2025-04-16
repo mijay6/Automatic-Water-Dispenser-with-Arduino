@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![University: UPT](https://img.shields.io/badge/University-Politehnica%20Timisoara-red.svg)](https://www.upt.ro/)
 [![Status: Academic](https://img.shields.io/badge/Status-Academic%20Project-success.svg)](https://github.com/mijay6/Automatic-Water-Dispenser-with-Arduino)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg) ](https://github.com/mijay6/Automatic-Water-Dispenser-with-Arduino/releases) 
 
 ## Description
 This project presents the design and implementation of an automatic water dispenser using Arduino. The system offers an efficient, hygienic, and precise solution for controlled water dispensing into containers, eliminating the need to manually pour water and reducing waste by preventing overflow.
