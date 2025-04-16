@@ -1,4 +1,4 @@
-# Contributing to Implementarea unui Microsistem cu Microprocesorul 8086
+# Contributing to Automatic-Water-Dispenser-with-Arduino
 
 Thank you for considering contributing to this project! This document provides guidelines for contributions.
 
